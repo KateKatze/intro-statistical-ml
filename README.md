@@ -1,1 +1,1 @@
-First exercise
+First exercises
